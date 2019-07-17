@@ -18,7 +18,7 @@ Dependencies
 * Numpy 
 * matplotlib
 * scipy 
-Use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies
+### Use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies
 
 
 Usage
