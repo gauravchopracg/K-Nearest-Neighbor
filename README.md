@@ -3,7 +3,7 @@
 Implementation of kNN classifier on CIFAR-10 dataset
 
 
-## Overview
+Overview
 ============
 
 The kNN classifier consists of two stages:
@@ -12,7 +12,7 @@ The kNN classifier consists of two stages:
 * The value of k is cross-validated
 
 
-## Dependencies
+Dependencies
 ============
 
 * Numpy 
@@ -21,13 +21,13 @@ The kNN classifier consists of two stages:
 Use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies
 
 
-## Usage
+Usage
 ===========
 
 To check the implementation of code, just open knn.ipynb and run the all the cells
 
 
-## Credits
+Credits
 ===========
 
 This is a part of Assignment #1 of [CS231n](http://cs231n.github.io/)
